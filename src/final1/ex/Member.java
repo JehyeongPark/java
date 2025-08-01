@@ -11,7 +11,6 @@ public class Member {
     }
 
     public void changeData(String name) {
-    public void changeData(String name) {
         // this.id = id; 컴파일 오류
         this.name = name;
     }
